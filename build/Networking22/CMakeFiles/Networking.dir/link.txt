@@ -1,0 +1,2 @@
+C:/cygwin64/bin/ar.exe qc libNetworking.a CMakeFiles/Networking.dir/src/Base.cpp.obj
+C:/cygwin64/bin/ranlib.exe libNetworking.a

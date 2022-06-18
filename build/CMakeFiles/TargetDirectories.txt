@@ -1,0 +1,11 @@
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/CMakeFiles/edit_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/CMakeFiles/rebuild_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/Networking22/CMakeFiles/Networking22.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/Networking22/CMakeFiles/edit_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/Networking22/CMakeFiles/rebuild_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/client22/CMakeFiles/client22.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/client22/CMakeFiles/edit_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/client22/CMakeFiles/rebuild_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/server22/CMakeFiles/server22.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/server22/CMakeFiles/edit_cache.dir
+C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/server22/CMakeFiles/rebuild_cache.dir

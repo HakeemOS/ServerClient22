@@ -1,0 +1,2 @@
+C:/cygwin64/bin/ar.exe qc libNetworking22.a CMakeFiles/Networking22.dir/src/Base.cpp.obj
+C:/cygwin64/bin/ranlib.exe libNetworking22.a

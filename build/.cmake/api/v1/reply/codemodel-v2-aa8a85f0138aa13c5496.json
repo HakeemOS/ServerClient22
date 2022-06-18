@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Networking22",
+					"jsonFile" : "directory-Networking22-Debug-94149fffc4114009a3ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Networking22",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "client22",
+					"jsonFile" : "directory-client22-Debug-067b3fcb121cd7f55239.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "client22",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "server22",
+					"jsonFile" : "directory-server22-Debug-25cd090300f6b44168c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "server22",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "clientserver22"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Networking22",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "client22",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "server22",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Networking22::@6de6fe021fa970b92978",
+					"jsonFile" : "target-Networking22-Debug-a0d794a3d473a01d0eca.json",
+					"name" : "Networking22",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "client22::@5073fa6e9e4be403ea1d",
+					"jsonFile" : "target-client22-Debug-9ea4a76111c43592f8e7.json",
+					"name" : "client22",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "server22::@3c0c98c6d0aa3ce7e451",
+					"jsonFile" : "target-server22-Debug-868f2219e97ea6d13cac.json",
+					"name" : "server22",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build",
+		"source" : "C:/Users/squid/OneDrive/Documents/C++/ServerClient22"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

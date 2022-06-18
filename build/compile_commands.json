@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/Networking22",
+  "command": "C:/cygwin64/bin/g++.exe  @CMakeFiles/Networking22.dir/includes_CXX.rsp -g -o CMakeFiles/Networking22.dir/src/Base.cpp.obj -c C:/Users/squid/OneDrive/Documents/C++/ServerClient22/Networking22/src/Base.cpp",
+  "file": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/Networking22/src/Base.cpp"
+},
+{
+  "directory": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/client22",
+  "command": "C:/cygwin64/bin/g++.exe  @CMakeFiles/client22.dir/includes_CXX.rsp -g -o CMakeFiles/client22.dir/main.cpp.obj -c C:/Users/squid/OneDrive/Documents/C++/ServerClient22/client22/main.cpp",
+  "file": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/client22/main.cpp"
+},
+{
+  "directory": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/build/server22",
+  "command": "C:/cygwin64/bin/g++.exe  @CMakeFiles/server22.dir/includes_CXX.rsp -g -o CMakeFiles/server22.dir/main.cpp.obj -c C:/Users/squid/OneDrive/Documents/C++/ServerClient22/server22/main.cpp",
+  "file": "C:/Users/squid/OneDrive/Documents/C++/ServerClient22/server22/main.cpp"
+}
+]
